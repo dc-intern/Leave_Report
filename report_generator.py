@@ -151,7 +151,7 @@ def generate_pdf(
     # report info
     info = f'Leave Report\n{month} {year}\nEmployee: {name}'
     pdf.cell(0, 15, ln=1)
-    pdf.multi_cell(100, 10, info, ln=1)
+    pdf.multi_cell(100, 10, info)
     pdf.cell(0, 5, ln=1)
     # new_x=fpdf.enums.XPos.LMARGIN, new_y=fpdf.enums.YPos.NEXT
     pdf.set_font('helvetica', size=12)
