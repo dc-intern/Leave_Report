@@ -1,3 +1,4 @@
 /test_data
 Pipfile
 startapp.py
+.DS_Store
