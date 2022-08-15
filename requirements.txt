@@ -4,4 +4,5 @@ numpy
 ics
 openpyxl
 fpdf
+tkinter
 streamlit >= 1.11.0
