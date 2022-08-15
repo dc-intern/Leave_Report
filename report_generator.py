@@ -1,4 +1,3 @@
-# from turtle import enum
 import streamlit as st
 from ics import Calendar, Event 
 import pandas as pd
@@ -7,7 +6,8 @@ from io import BytesIO
 import openpyxl as op
 from datetime import datetime
 from tempfile import NamedTemporaryFile
-import fpdf 
+from fpdf import FPDF
+from fpdf.enums import XPos, YPos
 
 def get_employer_data(excel, month: int, year: int):
     year = year if month else year-1
@@ -142,7 +142,7 @@ def generate_pdf(
     file_name = f'Leave_Report_{name}_{month}{year}'
 
     # create pdf
-    pdf = fpdf.FPDF()
+    pdf = FPDF()
     pdf.add_page()
     pdf.set_auto_page_break(0)
     # header
@@ -151,11 +151,11 @@ def generate_pdf(
 
     # report info
     info = f'Leave Report\n{month} {year}\nEmployee: {name}'
-    pdf.cell(0, 15, ln=1)
+    pdf.cell(0, 15, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
     pdf.multi_cell(100, 10, info)
-    pdf.cell(0, 5, ln=1)
-    # new_x=fpdf.enums.XPos.LMARGIN, new_y=fpdf.enums.YPos.NEXT
+    pdf.cell(0, 5, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
     pdf.set_font('helvetica', size=12)
+
     # store table cell data in a list
     data = [[' ', 'Vacation', 'Sick']]
 
@@ -188,7 +188,7 @@ def generate_pdf(
     pdf.set_line_width(0.25)
     pdf.set_draw_color(r=20, g=200, b=200)
     pdf.line(x1=10,y1=270, x2=200, y2=270)
-    pdf.cell(0, 18, ln=1)
+    pdf.cell(0, 18, new_x=XPos.LMARGIN, new_y=YPos.NEXT)
     pdf.set_font('helvetica', size=10.5)
     footer_text = 'Room 627, 6/F, 17 Science Park West Avenue, Hong Kong Science Park, Sha Tin, Hong Kong\ninfo@decodecure.com +852 3703 2570'
     pdf.multi_cell(pdf.epw, 5, footer_text, align='C')
