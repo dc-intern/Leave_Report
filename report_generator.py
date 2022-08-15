@@ -210,7 +210,7 @@ def generate_pdf(
 
   
 # App Start ######################
-st.title("Employer Leave Report")
+st.title("Employee Leave Report")
 st.markdown("""---""")
 
 # input data 
