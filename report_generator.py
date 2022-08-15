@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from io import BytesIO
 import openpyxl as op
+from openpyxl.styles import Font
 from datetime import datetime
 from tempfile import NamedTemporaryFile
 from fpdf import FPDF
@@ -120,6 +121,7 @@ def update_excel(
     wb[f'Leave_Record_{year}'][f'{sick_col}{35}'] = sick_count
     wb[f'Leave_Record_{year}'][f'{sick_col}{36}'] = updated_sick_leave 
 
+
     #update sick leave on first sheet
     col = chr(year-first_day.year+ord('C'))
     row = month + 20
@@ -129,6 +131,14 @@ def update_excel(
     except TypeError:
         wb[name][f'{col}{34}'] = sick_count 
     wb[name]['E35'] = updated_sick_leave 
+
+
+    # change fix font type
+    ft = Font(name='Calibri')
+    for col in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
+        for row in range(36):
+            wb[f'Leave_Record_{year}'][f'{col}{row+1}'].font = ft
+
 
     with NamedTemporaryFile() as tmp:
         wb.save(tmp.name)
