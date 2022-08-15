@@ -4,5 +4,6 @@ numpy
 ics
 openpyxl
 fpdf
+turtle
 tkinter
 streamlit >= 1.11.0
