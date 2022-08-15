@@ -3,5 +3,5 @@ matplotlib
 numpy
 ics
 openpyxl
-fpdf
+fpdf2
 streamlit >= 1.11.0
