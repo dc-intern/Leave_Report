@@ -4,5 +4,4 @@ numpy
 ics
 openpyxl
 fpdf
-fpdf.enums
 streamlit >= 1.11.0
