@@ -56,7 +56,7 @@ def calacuate_leave(employer_events: list) -> tuple[list, list]:
 def update_excel(
         wb, month:int, year:int, sick_balance:float,
         annual_balance:float, sick_leave:list, vacaies:list, 
-        name:str, worked_month:int , worked_year:int, first_day) -> tuple[int, int, int, int]:
+        name:str, worked_month:int , worked_year:int, first_day):
 
     # calculate the col of this month in sheet Leave_Record_[Year]
     vacaies_col= chr(2*(month-1)+ord('B'))
@@ -131,12 +131,13 @@ def update_excel(
         mime='xlsx',
         file_name=f"Vacation_Sick_Record_{name}_{month_list[month-1]}-{year}.xlsx")
 
-    return earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave 
+    return earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave, vacacies_count, sick_count
 
 def generate_pdf(
         month:str, year:int, updated_vacacies:float,
         updated_sick_leave:float, sick_leave:list, vacaies:list, 
-        name:str, earned_vacacies:int,  earned_sick_leave:int):
+        name:str, earned_vacacies:float,  earned_sick_leave:float,
+        vacaies_count:float, sick_count:float):
 
     file_name = f'Leave_Report_{name}_{month}{year}'
 
@@ -157,14 +158,16 @@ def generate_pdf(
     pdf.set_font('helvetica', size=12)
     # store table cell data in a list
     data = [[' ', 'Vacation', 'Sick']]
+
     vacaies_dict = {start.day: time for start, time in vacaies}
     sick_dict = {start.day: time for start, time in sick_leave}
+      
     for i in range(1, 32):
         row = [str(i)]
         row.append(str(vacaies_dict[i]) if i in vacaies_dict else ' ')
         row.append(str(sick_dict[i]) if i in sick_dict else ' ')
         data.append(row)        
-    data.append(['Used this Month (Day)', f'{len(vacaies)}', str(len(sick_leave))])
+    data.append(['Used this Month (Day)', str(vacacies_count), str(sick_count)])
     data.append(['Earned this Month (Day)', str(earned_vacacies), str(earned_sick_leave)])
     data.append(['Up to day Balance (Day)', str(updated_vacacies), str(updated_sick_leave)])
 
@@ -255,9 +258,10 @@ for event in events:
         employer_events.append(event)
 
 sick_leave, vacacies = calacuate_leave(employer_events)
-earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave = update_excel(wb, month, year,
+earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave, vacacies_count, sick_count = update_excel(wb, month, year,
         sick_balance, annual_balance, sick_leave,
         vacacies, name, worked_month, worked_year, first_day)
 generate_pdf(month_name, year, updated_vacacies,
         updated_sick_leave, sick_leave, vacacies, 
-        name, earned_vacacies,  earned_sick_leave)
+        name, earned_vacacies,  earned_sick_leave,
+        vacacies_count, sick_count)
