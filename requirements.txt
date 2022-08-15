@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+ics
+openpyxl
+fpdf
+streamlit >= 1.11.0

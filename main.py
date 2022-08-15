@@ -1,4 +1,3 @@
-from turtle import update
 import streamlit as st
 from ics import Calendar, Event 
 import pandas as pd
