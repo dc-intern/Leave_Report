@@ -86,8 +86,8 @@ def update_excel(
         wb[f'Leave_Record_{year}'][f'{vacaies_col}{start.day+2}'] = time
         vacacies_count += time
     earned_vacacies = 0
-    if worked_month == 0 or year == 0:
-        earned_vacacies = 7 if year <= 2 else 7 + worked_year - 2 
+    if worked_month == 0:
+        earned_vacacies = 7 if year < 2 else 7 + worked_year - 1 
         earned_vacacies = earned_vacacies if earned_vacacies <= 14 else 14
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{34}'] = earned_vacacies 
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{35}'] = vacacies_count 
@@ -96,10 +96,13 @@ def update_excel(
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{36}'] =  updated_vacacies
 
     # update vacaction on first sheet
-    col = chr(year-first_day.year+ord('B'))
+    col = chr(worked_year+ord('C'))
     if worked_month == 0: 
         wb[name][f'{col}12'] = earned_vacacies 
-    wb[name][f'{col}13'] = wb[name][f'{col}13'].value + vacacies_count
+    try:
+        wb[name][f'{col}13'] = wb[name][f'{col}13'].value + vacacies_count
+    except TypeError:
+        wb[name][f'{col}13'] = vacacies_count
     wb[name][f'{col}15'] = updated_vacacies 
 
     # update sick leave on sheet Leave_Record_[Year]
@@ -120,7 +123,10 @@ def update_excel(
     col = chr(year-first_day.year+ord('C'))
     row = month + 20
     wb[name][f'{col}{row}'] =earned_sick_leave 
-    wb[name][f'{col}{34}'] = wb[name][f'{col}{34}'].value + sick_count 
+    try:
+        wb[name][f'{col}{34}'] = wb[name][f'{col}{34}'].value + sick_count 
+    except TypeError:
+        wb[name][f'{col}{34}'] = sick_count 
     wb[name]['E35'] = updated_sick_leave 
 
     with NamedTemporaryFile() as tmp:
