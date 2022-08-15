@@ -253,7 +253,6 @@ worked_month = month - first_day.month
 if worked_month < 0:
     worked_year -= 1 
     worked_month = 12 - first_day.month + month 
-
 #  get event in caledar
 calendar = Calendar(calendar.read().decode('utf-8'))
 events = calendar.events
