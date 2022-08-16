@@ -10,31 +10,33 @@ from tempfile import NamedTemporaryFile
 from fpdf import FPDF
 from fpdf.enums import XPos, YPos
 
-
 def get_employer_data(excel, month: int, year: int):
     year = year if month else year-1
     month = month if month else 12
     
-    sheet1 = pd.read_excel(excel, usecols='A:B', index_col = 0, header = None)
-    try:
-        sheet2 = pd.read_excel(excel, usecols='A:Y', sheet_name = f'Leave_Record_{year}', skiprows=np.arange(0), header=1)
-    except ValueError:
-        st.warning(f'Worksheet named Leave_Record_{year} not found')
-        st.stop()
-
     # get name and start time 
+    sheet1 = pd.read_excel(excel, usecols='A:B', index_col = 0, header = None)
     name = sheet1.loc['Employee'][1]
     first_day = sheet1.loc['Start'][1]
 
     # get sick_leave_balance and annaul_balance from last month
+    try:
+        sheet2 = pd.read_excel(excel, usecols='A:Y', sheet_name = f'Leave_Record_{year}', skiprows=np.arange(0), header=1)
+    except ValueError:
+        return name, first_day, 0, 0
     sick_balance = sheet2['Sick' if month == 1 else f'Sick.{month-1}'][33]
-    annaul_balance = sheet2[f'Vacation' if month == 1 else f'Vacation.{month-1}'][33]
+    annual_balance = sheet2[f'Vacation' if month == 1 else f'Vacation.{month-1}'][33]
+    if (pd.isnull(sheet2.loc[33, 'Sick' if month == 1 else f'Sick.{month-1}'])):
+        sick_balance = 0
+    if (pd.isnull(sheet2.loc[33, 'Vacation' if month == 1 else f'Vacation.{month-1}'])):
+        annual_balance = 0
 
-    return name, first_day, sick_balance, annaul_balance
+    return name, first_day, sick_balance,annual_balance 
 
-# get leave this month 
+# get leave in this month 
 def calacuate_leave(employer_events: list) -> tuple[list, list]:
     sick_leave = []
+
     vacacies = []
     for event in employer_events:
         diff = event.end - event.begin
@@ -48,11 +50,30 @@ def calacuate_leave(employer_events: list) -> tuple[list, list]:
             time = 1 if diff > 6 else 0.5
             if 'sick leave' in event.name:         
                 sick_leave.append((date, time))
-            else:
+            elif 'annual leave' in event.name:
                 vacacies.append((date, time))
             date = date.shift(days = 1)
             diff -= 24 
 
+    col1, col2 = st.columns([1,1])
+
+    # print the sick levae and vacacie
+    with col1:
+        dict = {'Date':[], 'Duration':[]}
+        st.write('Sick Leave')
+        for leave in sick_leave:
+            dict['Date'].append(leave[0].day)
+            dict['Duration'].append(leave[1])
+        st.write(pd.DataFrame(dict))
+
+    with col2:
+        dict = {'Date':[], 'Duration':[]}
+        st.write('Vacacies')
+        for leave in vacacies:
+            dict['Date'].append(leave[0].day)
+            dict['Duration'].append(leave[1])
+        st.write(pd.DataFrame(dict))
+    
     return sick_leave, vacacies
 
 def update_excel(
@@ -88,13 +109,14 @@ def update_excel(
         wb[f'Leave_Record_{year}'][f'{vacaies_col}{start.day+2}'] = time
         vacacies_count += time
     earned_vacacies = 0
+    # calculate earned vacacies base on worked year
     if worked_month == 0:
-        earned_vacacies = 7 if year < 2 else 7 + worked_year - 1 
-        earned_vacacies = earned_vacacies if earned_vacacies <= 14 else 14
+        earned_vacacies = 7 if worked_year < 2 else min(7 + worked_year - 1, 14) 
+    # update excel
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{34}'] = earned_vacacies 
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{35}'] = vacacies_count 
-    updated_vacacies =  annual_balance + earned_vacacies - vacacies_count 
-    updated_vacacies = 14 if updated_vacacies > 14 else updated_vacacies
+    updated_vacacies = annual_balance + earned_vacacies if annual_balance + earned_vacacies <= 14 else 14
+    updated_vacacies -= vacacies_count 
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{36}'] =  updated_vacacies
 
     # update vacaction on first sheet
@@ -116,7 +138,7 @@ def update_excel(
     updated_sick_leave = sick_balance + earned_sick_leave - sick_count 
     if  updated_sick_leave >= 120:
         earned_sick_leave = earned_sick_leave - (updated_sick_leave - 120) 
-    updated_sick_leave = 120 if updated_sick_leave > 120 else updated_sick_leave
+    updated_sick_leave = min(120, updated_sick_leave)
     wb[f'Leave_Record_{year}'][f'{sick_col}{34}'] = earned_sick_leave 
     wb[f'Leave_Record_{year}'][f'{sick_col}{35}'] = sick_count
     wb[f'Leave_Record_{year}'][f'{sick_col}{36}'] = updated_sick_leave 

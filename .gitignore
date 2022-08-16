@@ -1,5 +1,6 @@
 /test_data
-/data
+/new_employee
 Pipfile
 startapp.py
 .DS_Store
+*.ics
