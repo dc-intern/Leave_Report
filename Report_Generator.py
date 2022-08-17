@@ -38,21 +38,19 @@ def get_employer_data(excel, month: int, year: int):
 # get leave in this month 
 def calacuate_leave(employer_events: list) -> tuple[list, list]:
     sick_leave = []
-
     vacacies = []
     for event in employer_events:
         diff = event.end - event.begin
         diff = diff.seconds/3600 + diff.days*24
         date = event.begin
-
         while diff > 0:
             time = diff 
-            if diff < 3:
+            if diff <= 2:
                 break
-            time = 1 if diff > 6 else 0.5
-            if 'sick leave' in event.name:         
+            time = 0.5 if diff < 9 else 1
+            if 'sick leave' in event.name or 'Sick Leave' in event.name:         
                 sick_leave.append((date, time))
-            elif 'annual leave' in event.name:
+            elif 'annual leave' in event.name or 'Annual Leave' in event.name:
                 vacacies.append((date, time))
             date = date.shift(days = 1)
             diff -= 24 
