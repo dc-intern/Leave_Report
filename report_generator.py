@@ -176,6 +176,7 @@ def update_excel(
         mime='xlsx',
         file_name=f"Vacation_Sick_Record_{name}_{month_list[month-1]}_{year}.xlsx")
 
+
     return earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave, vacacies_count, sick_count
 
 def generate_pdf(
