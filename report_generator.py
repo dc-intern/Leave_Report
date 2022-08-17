@@ -15,15 +15,17 @@ def get_employer_data(excel, month: int, year: int):
     month = month if month else 12
     
     # get name and start time 
-    sheet1 = pd.read_excel(excel, usecols='A:B', index_col = 0, header = None)
+    sheet1 = pd.read_excel(excel, usecols='A:C', index_col = 0, header = None)
     name = sheet1.loc['Employee'][1]
+    nickname = sheet1.loc['Employee'][2]
     first_day = sheet1.loc['Start'][1]
 
     # get sick_leave_balance and annaul_balance from last month
     try:
         sheet2 = pd.read_excel(excel, usecols='A:Y', sheet_name = f'Leave_Record_{year}', skiprows=np.arange(0), header=1)
     except ValueError:
-        return name, first_day, 0, 0
+        return name, nickname, first_day, 0, 0
+
     sick_balance = sheet2['Sick' if month == 1 else f'Sick.{month-1}'][33]
     annual_balance = sheet2[f'Vacation' if month == 1 else f'Vacation.{month-1}'][33]
     if (pd.isnull(sheet2.loc[33, 'Sick' if month == 1 else f'Sick.{month-1}'])):
@@ -31,7 +33,7 @@ def get_employer_data(excel, month: int, year: int):
     if (pd.isnull(sheet2.loc[33, 'Vacation' if month == 1 else f'Vacation.{month-1}'])):
         annual_balance = 0
 
-    return name, first_day, sick_balance,annual_balance 
+    return name, nickname, first_day, sick_balance, annual_balance 
 
 # get leave in this month 
 def calacuate_leave(employer_events: list) -> tuple[list, list]:
@@ -89,7 +91,8 @@ def update_excel(
             'Apr', 'May', 'Jun',
             'Jul' , 'Aug', 'Sep',
             'Oct', 'Nov', 'Dec']
-    # create a new sheet in jan
+
+    # create a new sheet in jan 
     if f'Leave_Record_{year}' not in wb.sheetnames:
         wb.create_sheet(f'Leave_Record_{year}')
         for i, m in enumerate(month_list):
@@ -111,7 +114,10 @@ def update_excel(
     earned_vacacies = 0
     # calculate earned vacacies base on worked year
     if worked_month == 0:
-        earned_vacacies = 7 if worked_year < 2 else min(7 + worked_year - 1, 14) 
+        if worked_year == 0:
+            earned_vacacies = 0
+        else: 
+            earned_vacacies = 7 if worked_year <= 2 else min(7 + worked_year - 2, 14) 
     # update excel
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{34}'] = earned_vacacies 
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{35}'] = vacacies_count 
@@ -120,7 +126,7 @@ def update_excel(
     wb[f'Leave_Record_{year}'][f'{vacaies_col}{36}'] =  updated_vacacies
 
     # update vacaction on first sheet
-    col = chr(worked_year+ord('C'))
+    col = chr(worked_year+ord('B'))
     if worked_month == 0: 
         wb[name][f'{col}12'] = earned_vacacies 
     try:
@@ -147,7 +153,7 @@ def update_excel(
     #update sick leave on first sheet
     col = chr(year-first_day.year+ord('C'))
     row = month + 20
-    wb[name][f'{col}{row}'] =earned_sick_leave 
+    wb[name][f'{col}{row}'] = earned_sick_leave 
     try:
         wb[name][f'{col}{34}'] = wb[name][f'{col}{34}'].value + sick_count 
     except TypeError:
@@ -168,7 +174,7 @@ def update_excel(
     st.download_button("Retrieve excel file",
         data=data,
         mime='xlsx',
-        file_name=f"Vacation_Sick_Record_{name}_{month_list[month-1]}-{year}.xlsx")
+        file_name=f"Vacation_Sick_Record_{name}_{month_list[month-1]}_{year}.xlsx")
 
     return earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave, vacacies_count, sick_count
 
@@ -277,7 +283,7 @@ year = datetime.now().year
 year = int(st.text_input('year', value=year))
 
 # get employer data from record
-name, first_day, sick_balance, annual_balance = get_employer_data(excel, month-1, year)
+name, nickname, first_day, sick_balance, annual_balance = get_employer_data(excel, month-1, year)
 
 # calculate the employer worked time
 worked_year = year - first_day.year 
@@ -292,7 +298,7 @@ events = calendar.events
 # get all leave of employer this month 
 employer_events = []
 for event in events:
-    if (month == event.begin.month and year == event.begin.year and name in event.name):
+    if (month == event.begin.month and year == event.begin.year and nickname in event.name):
         employer_events.append(event)
 
 sick_leave, vacacies = calacuate_leave(employer_events)

@@ -21,14 +21,16 @@ st.title("New Report Generator")
 st.markdown("""---""")
 
 name = st.text_input('Employee Name', value='Name')
+nickname = st.text_input('Employee Nickname', value='Nickname')
 first_day = st.date_input('First Day of Employee')
 
 wbook = Workbook()
 ws = wbook.worksheets[0]
-ws.title = name
+ws.title = name 
 
 ws['A1'] = 'Employee'
 ws['B1'] = name
+ws['C1'] = nickname
 ws['A2'] = 'Start'
 ws['B2'] = first_day
 ws['A3'] = 'Annual Leave (Cap, day)'
