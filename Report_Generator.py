@@ -47,7 +47,7 @@ def calacuate_leave(employer_events: list) -> tuple[list, list]:
             time = diff 
             if diff <= 2:
                 break
-            time = 0.5 if diff < 9 else 1
+            time = 0.5 if diff < 8 else 1
             if 'sick leave' in event.name or 'Sick Leave' in event.name:         
                 sick_leave.append((date, time))
             elif 'annual leave' in event.name or 'Annual Leave' in event.name:
@@ -173,7 +173,6 @@ def update_excel(
         data=data,
         mime='xlsx',
         file_name=f"Vacation_Sick_Record_{name}_{month_list[month-1]}_{year}.xlsx")
-
 
     return earned_vacacies, earned_sick_leave, updated_vacacies, updated_sick_leave, vacacies_count, sick_count
 
