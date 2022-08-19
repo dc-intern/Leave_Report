@@ -278,7 +278,7 @@ month = st.selectbox('Month', month_list.keys(), index=month-1)
 month_name = month
 month = month_list[month]
 year = datetime.now().year
-year = int(st.text_input('year', value=year))
+year = int(st.text_input('Year', value=year))
 
 # get employer data from record
 name, nickname, first_day, sick_balance, annual_balance = get_employer_data(excel, month-1, year)
