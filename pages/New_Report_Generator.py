@@ -20,7 +20,7 @@ month_list = ['Jan','Feb','Mar',
 st.title("New Report Generator")
 st.markdown("""---""")
 
-name = st.text_input('Employee Name', value='Name')
+name = st.text_input('Employee Full Name', value='Full Name')
 nickname = st.text_input('Employee Nickname', value='Nickname')
 first_day = st.date_input('First Day of Employee')
 
