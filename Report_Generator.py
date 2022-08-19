@@ -252,9 +252,9 @@ st.markdown("""---""")
 # input data 
 col1, col2 = st.columns([1,1])
 with col1:
-    calendar = st.file_uploader('ics')
+    calendar = st.file_uploader('ICS')
 with col2:
-    excel = st.file_uploader('excel')
+    excel = st.file_uploader('Excel')
 
 if not calendar or not excel:
     st.stop()
