@@ -1,0 +1,1090 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ali.soyunjov@decodecure.com
+X-WR-TIMEZONE:Asia/Hong_Kong
+BEGIN:VEVENT
+DTSTART:20200722T053000Z
+DTEND:20200722T073000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:55jlcuhqq2frblashrifokuj00@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wo
+ ng.pakwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/nse-bkfg-azm
+CREATED:20200722T024625Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ns
+ e-bkfg-azm\n(US) +1 414-909-6548 PIN: 325549872#\nMore phone numbers: https
+ ://tel.meet/nse-bkfg-azm?pin=3450791590741&hs=7\n\nPlease do not edit this 
+ section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200722T024625Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Autoclave Portable
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201016T010000Z
+DTEND:20201016T040000Z
+DTSTAMP:20220926T030438Z
+UID:2dhca1frrinocfguho8spdp1gt@google.com
+CREATED:20201015T162804Z
+DESCRIPTION:
+LAST-MODIFIED:20201015T162804Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ali
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201016T070000Z
+DTEND:20201016T110000Z
+DTSTAMP:20220926T030438Z
+UID:7acp6ks8e24b9qljq09n41bs24@google.com
+CREATED:20201015T162831Z
+DESCRIPTION:
+LAST-MODIFIED:20201015T162831Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ali
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201106T020000Z
+DTEND:20201106T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=kaming.wong@decodecure.com:mailto:kaming.wong@decodecure.com
+UID:2pkmn5gmsp748kkqld78tlgbhd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cx
+ 9p9@mail.missouri.edu;X-NUM-GUESTS=0:mailto:cx9p9@mail.missouri.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/aok-fwax-rwm
+CREATED:20201105T011014Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ao
+ k-fwax-rwm\n(HK) +852 3002 2301 PIN: 5970689040042#\nMore phone numbers: ht
+ tps://tel.meet/aok-fwax-rwm?pin=5970689040042&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201105T020444Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:meeting AWS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201202T020000Z
+DTEND:20201202T040000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=kaming.wong@decodecure.com:mailto:kaming.wong@decodecure.com
+UID:0382egaribs9melfg6th1jrr84@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/wiv-hfjn-jsk
+CREATED:20201130T014902Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/wi
+ v-hfjn-jsk\n(HK) +852 3002 2301 PIN: 3427429796334#\nMore phone numbers: ht
+ tps://tel.meet/wiv-hfjn-jsk?pin=3427429796334&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201130T035835Z
+LOCATION:17W\, 6/F\, Diamond
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AWS meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210226T060000Z
+DTEND:20210226T070000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=kaming.wong@decodecure.com:mailto:kaming.wong@decodecure.com
+UID:71f243nsmt2ounsl1ietqs7nii@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cx9p9@
+ mail.missouri.edu;X-NUM-GUESTS=0:mailto:cx9p9@mail.missouri.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kgc-barv-cpz
+CREATED:20210222T054922Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/kg
+ c-barv-cpz\n(HK) +852 3002 2301 PIN: 7865696757594#\nMore phone numbers: ht
+ tps://tel.meet/kgc-barv-cpz?pin=7865696757594&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210226T070908Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:guppy meeting
+TRANSP:OPAQUE
+ATTACH;FILENAME="guppy meeting (2021-02-25 at 22:26 GMT-8).mp4";FMTTYPE=vid
+ eo/mp4:https://drive.google.com/open?id=1bNlQ8rYDLwbTHfjMi7ERJjgMn1YO_35K
+ATTACH;FILENAME="guppy meeting (2021-02-25 at 22:26 GMT-8).sbv";FMTTYPE=tex
+ t/plain:https://drive.google.com/open?id=17xgf65XFfa1FpSDYuhFeZtJTcLAdJLRE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T020000Z
+DTEND:20210311T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=kaming.wong@decodecure.com:mailto:kaming.wong@decodecure.com
+UID:1tssi210h8r47slomimsq49p5m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cx9p9@
+ mail.missouri.edu;X-NUM-GUESTS=0:mailto:cx9p9@mail.missouri.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=xudong
+ @missouri.edu;X-NUM-GUESTS=0:mailto:xudong@missouri.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ayj-tptk-ves
+CREATED:20210309T012530Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ay
+ j-tptk-ves\n(HK) +852 3002 2301 PIN: 2405767493890#\nMore phone numbers: ht
+ tps://tel.meet/ayj-tptk-ves?pin=2405767493890&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210309T031706Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:iCoVID project meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210426T070000Z
+DTEND:20210426T080000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=kaming.wong@decodecure.com:mailto:kaming.wong@decodecure.com
+UID:5bhki48c530sarl2s2spofi33m@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cx
+ 9p9@mail.missouri.edu;X-NUM-GUESTS=0:mailto:cx9p9@mail.missouri.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mge-yhdv-hfc
+CREATED:20210423T063254Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/mg
+ e-yhdv-hfc\n(HK) +852 3002 2301 PIN: 7701770225854#\nMore phone numbers: ht
+ tps://tel.meet/mge-yhdv-hfc?pin=7701770225854&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210426T075334Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AWS meeting
+TRANSP:OPAQUE
+ATTACH;FILENAME="AWS meeting (2021-04-26 at 00:05 GMT-7).mp4";FMTTYPE=video
+ /mp4:https://drive.google.com/open?id=173VXT5O1r6JzOhkE9GX_VyJcBCng4CNA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210503T070000Z
+DTEND:20210503T080000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=kaming.wong@decodecure.com:mailto:kaming.wong@decodecure.com
+UID:28vls7epr5uui6gfsk39kmkbvv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cx9p9@
+ mail.missouri.edu;X-NUM-GUESTS=0:mailto:cx9p9@mail.missouri.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ ng.kwokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/cid-fyiu-emk
+CREATED:20210502T113615Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ci
+ d-fyiu-emk\n(HK) +852 3002 2301 PIN: 2896162426566#\nMore phone numbers: ht
+ tps://tel.meet/cid-fyiu-emk?pin=2896162426566&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210503T070224Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AWS meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210518T030000Z
+DTEND:20210518T043000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=wong.pakwah@decodecure.com:mailto:wong.pakwah@decodecure.com
+UID:4e993njc0a6a6hqpv9kqiq1acg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ ng.kwokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/zyd-rjna-jjj
+CREATED:20210514T055336Z
+DESCRIPTION:11:00 Choi Suhyun\n11:30 Joyce Chan\n12:00  Shourya\n\n-::~:~::
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:
+ ~::-\nJoin with Google Meet: https://meet.google.com/zyd-rjna-jjj\n(HK) +85
+ 2 3002 2301 PIN: 1342674332645#\nMore phone numbers: https://tel.meet/zyd-r
+ jna-jjj?pin=1342674332645&hs=7\n\nPlease do not edit this section.\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20210514T061807Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interns Interview- Comp Sci
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T020000Z
+DTEND:20210719T023000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=bin.ye@decodecure.com:mailto:bin.ye@decodecure.com
+UID:of3ap1d87ijic6u16ldtn485fs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wo
+ ng.pakwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=xwangg
+ h@connect.ust.hk;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Got it! Thank you!":mai
+ lto:xwanggh@connect.ust.hk
+CREATED:20210715T062246Z
+DESCRIPTION:
+LAST-MODIFIED:20210715T095503Z
+LOCATION:17 Science and Technology W Ave\, Science Park\, Hong Kong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:associate scientist interview - Wong\, Lexie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210813T030000Z
+DTEND:20210813T040000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:1tehjrn9u8scht1uop00ht7iq7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=studen
+ t-intern@decodecure.com;X-NUM-GUESTS=0:mailto:student-intern@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=po
+ ur@decodecure.com;X-NUM-GUESTS=0:mailto:pour@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/qyq-sfhp-urf
+CREATED:20210812T091835Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/qy
+ q-sfhp-urf\n(HK) +852 3002 2301 PIN: 7514551118186#\nMore phone numbers: ht
+ tps://tel.meet/qyq-sfhp-urf?pin=7514551118186&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210812T112229Z
+LOCATION:Cats-Eye
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Order Website Demo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210927T023000Z
+DTEND:20210927T040000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=wong.pakwah@decodecure.com:mailto:wong.pakwah@decodecure.com
+UID:55kagvm7m76fgevf223e2450de@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/jik-xeea-ogr
+CREATED:20210920T033318Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ji
+ k-xeea-ogr\n(HK) +852 3002 2301 PIN: 7765062911833#\nMore phone numbers: ht
+ tps://tel.meet/jik-xeea-ogr?pin=7765062911833&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210920T100826Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting - AutoBlast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220107T013000Z
+DTEND:20220107T023000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:5itmsmfvgob0j8t5e7nrieju8s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ming.wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wa
+ ng.xizhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=almatm
+ irzali@gmail.com;X-NUM-GUESTS=0:mailto:almatmirzali@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/zno-mxvn-tra
+CREATED:20220106T014231Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/zn
+ o-mxvn-tra\n(HK) +852 3002 2301 PIN: 5739090169154#\nMore phone numbers: ht
+ tps://tel.meet/zno-mxvn-tra?pin=5739090169154&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220106T083848Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Data Scientist Intern Interview
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H20M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T020000Z
+DTEND:20220126T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:4tg37nmr84vvn0h5urpcl0dkud@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ming.wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wang.x
+ izhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ ng.kwokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/rch-bpgw-sph
+CREATED:20220124T095111Z
+DESCRIPTION:Hi everyone\,\n\nPlease find details about interview with the C
+ UHK applicant for Data Scientist Intern position. I have attached his CV to
+  the email as well.\n\nBest\,\n\nAli\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet
+ : https://meet.google.com/rch-bpgw-sph\n(HK) +852 3002 2301 PIN: 5410923884
+ 994#\nMore phone numbers: https://tel.meet/rch-bpgw-sph?pin=5410923884994&h
+ s=7\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220125T004342Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Data Scientist Intern Interview
+TRANSP:OPAQUE
+ATTACH;FILENAME=Resume-HZH.pdf;FMTTYPE=application/pdf:https://drive.google
+ .com/open?id=1hdbHM-PDrCO696sMGsCFPiCFTHrQlrNt&authuser=2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T070000Z
+DTEND:20220125T080000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=wang.xizhu@decodecure.com:mailto:wang.xizhu@decodecure.com
+UID:1ooeq1rspuv5bhlaavnouunpgq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wang.x
+ izhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/rxi-wqau-gmr
+CREATED:20220125T001219Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/rx
+ i-wqau-gmr\n(HK) +852 3002 2301 PIN: 1646645397595#\nMore phone numbers: ht
+ tps://tel.meet/rxi-wqau-gmr?pin=1646645397595&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220125T012818Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intern Interview
+TRANSP:OPAQUE
+ATTACH;FILENAME=CV_DecodeCure.pdf;FMTTYPE=application/pdf:https://drive.goo
+ gle.com/open?id=1rXwKzSj-hKKzhE9GdSL86CChcgQsoxr_&authuser=0
+ATTACH;FILENAME=valerie kwong resume year 3 version 2.pdf;FMTTYPE=applicati
+ on/pdf:https://drive.google.com/open?id=1rZspmnvkblsHpWGHGK8CuOXqhhRgJkz5&a
+ uthuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T020000Z
+DTEND:20220209T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:0cuvt38emq9efotnauaumsfu7h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ming.wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wa
+ ng.xizhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wo
+ ng.pakwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/sqv-czdf-gfm
+CREATED:20220208T015931Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/sq
+ v-czdf-gfm\n(HK) +852 3002 2301 PIN: 6712709290758#\nMore phone numbers: ht
+ tps://tel.meet/sqv-czdf-gfm?pin=6712709290758&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220208T034620Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Data Scientist Intern Interview
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T020000Z
+DTEND:20220217T023000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=wang.xizhu@decodecure.com:mailto:wang.xizhu@decodecure.com
+UID:4vig2bta3gl84qu7oo7knismui@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wang.x
+ izhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=kaming
+ .wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/bzq-uago-jyu
+CREATED:20220214T093326Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/bz
+ q-uago-jyu\n(HK) +852 3002 2301 PIN: 5011886836394#\nMore phone numbers: ht
+ tps://tel.meet/bzq-uago-jyu?pin=5011886836394&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220214T101300Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intern Interview
+TRANSP:OPAQUE
+ATTACH;FILENAME=CV-HUANG Xintong.pdf;FMTTYPE=application/pdf:https://drive.
+ google.com/open?id=15bQeZERM42UO3obuBdOq_eee7AMz3nnK&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T030000Z
+DTEND:20220301T040000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:7om5tiud8vo3il7fq75k5nvepa@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tamang
+ steve@gmail.com;X-NUM-GUESTS=0:mailto:tamangsteve@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mjk-dxkn-tug
+CREATED:20220228T091131Z
+DESCRIPTION:Discussion of the project details\n\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Go
+ ogle Meet: https://meet.google.com/mjk-dxkn-tug\n(HK) +852 3002 2301 PIN: 6
+ 079668209585#\nMore phone numbers: https://tel.meet/mjk-dxkn-tug?pin=607966
+ 8209585&hs=7\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220228T094303Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pneumonia  Monitoring Mobile App
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220308T090000Z
+DTEND:20220308T100000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:0mk2s5ti2r7nbdj7uaf9nslru9@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tamang
+ steve@gmail.com;X-NUM-GUESTS=0:mailto:tamangsteve@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ijk-kfqn-xdx
+CREATED:20220308T071308Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ij
+ k-kfqn-xdx\n(HK) +852 3002 2301 PIN: 7732469017245#\nMore phone numbers: ht
+ tps://tel.meet/ijk-kfqn-xdx?pin=7732469017245&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220308T080810Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pneumonia App
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T013000Z
+DTEND:20220311T020000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=wang.xizhu@decodecure.com:mailto:wang.xizhu@decodecure.com
+UID:0gjgsdbel6rva7dek34mjmnk0n@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wang.x
+ izhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ming.wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wo
+ ng.pakwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ tietsm@connect.hku.hk;X-NUM-GUESTS=0:mailto:katietsm@connect.hku.hk
+X-GOOGLE-CONFERENCE:https://meet.google.com/oep-pqph-bdz
+CREATED:20220310T090108Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/oe
+ p-pqph-bdz\n(HK) +852 3002 2301 PIN: 4923395377773#\nMore phone numbers: ht
+ tps://tel.meet/oep-pqph-bdz?pin=4923395377773&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220310T090137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Internship Interview
+TRANSP:OPAQUE
+ATTACH;FILENAME=Cover Letter & CV.docx;FMTTYPE=application/vnd.openxmlforma
+ ts-officedocument.wordprocessingml.document:https://drive.google.com/open?i
+ d=1ygo00fiC0FYh93swimP7sy4Ox-Yg2271&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T020000Z
+DTEND:20220311T023000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=wang.xizhu@decodecure.com:mailto:wang.xizhu@decodecure.com
+UID:0b4o0t7ehc5i4rfvgcf4ghckrv@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wang.x
+ izhu@decodecure.com;X-NUM-GUESTS=0:mailto:wang.xizhu@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=wo
+ ng.pakwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ming.wong@decodecure.com;X-NUM-GUESTS=0:mailto:kaming.wong@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ka
+ ryyeungkt37@gmail.com;X-NUM-GUESTS=0:mailto:karyyeungkt37@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kbk-odui-whk
+CREATED:20220310T090625Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/kb
+ k-odui-whk\n(HK) +852 3002 2301 PIN: 9541300483940#\nMore phone numbers: ht
+ tps://tel.meet/kbk-odui-whk?pin=9541300483940&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220311T005507Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Summer Internship Interview
+TRANSP:OPAQUE
+ATTACH;FILENAME=Resume.pdf;FMTTYPE=application/pdf:https://drive.google.com
+ /open?id=1bP1020-45Eq_t9FaWqmQfngCKpy62oWG&authuser=0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220315T090000Z
+DTEND:20220315T100000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:1cpofn5mrlhot4ol1p3duku3ji@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=tamang
+ steve@gmail.com;X-NUM-GUESTS=0:mailto:tamangsteve@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mjk-dxkn-tug
+CREATED:20220315T054302Z
+DESCRIPTION:Discussion of the project details\n\n-::~:~::~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Go
+ ogle Meet: https://meet.google.com/mjk-dxkn-tug\n(HK) +852 3002 2301 PIN: 6
+ 079668209585#\nMore phone numbers: https://tel.meet/mjk-dxkn-tug?pin=607966
+ 8209585&hs=7\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220315T061109Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Pneumonia  Monitoring App
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220330T013000Z
+DTEND:20220330T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=hung.kwokwang@decodecure.com:mailto:hung.kwokwang@decodecure.c
+ om
+UID:3beotk3odf3nak72u2lqb6loca@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hung.k
+ wokwang@decodecure.com;X-NUM-GUESTS=0:mailto:hung.kwokwang@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/iaq-jgyi-fib
+CREATED:20220329T081329Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ia
+ q-jgyi-fib\n(HK) +852 3002 2301 PIN: 7543388644624#\nMore phone numbers: ht
+ tps://tel.meet/iaq-jgyi-fib?pin=7543388644624&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220329T084618Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Antibiotic Resistant ABR-tools
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220425T013000Z
+DTEND:20220425T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=bin.ye@decodecure.com:mailto:bin.ye@decodecure.com
+UID:19aj33n9tlqiebto1op63610aq@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ i.soyunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ mangsteve@gmail.com;X-NUM-GUESTS=0:mailto:tamangsteve@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/pfe-bafi-imb
+CREATED:20220422T011709Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/pf
+ e-bafi-imb\n(HK) +852 3002 2301 PIN: 1496937094825#\nMore phone numbers: ht
+ tps://tel.meet/pfe-bafi-imb?pin=1496937094825&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220425T013707Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Biosensor and App meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220531T063000Z
+DTEND:20220531T073000Z
+DTSTAMP:20220926T030438Z
+UID:335d5b2b734476l1fnbg8fkbls@google.com
+CREATED:20220518T011135Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    Pl
+ ease click this URL to join. https://hkstp.zoom.us/w/81714784365?tk=Adr_Hhj
+ LRs7KVO-RwSgbvhtjiO13PTtAw3EYDoVcH8g.DQMAAAATBpSobRZVcG1HNzgxT1JmQzNsOXhPRG
+ 9zM3pRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=QS9vUkp6MC9SYlZVYVFqcjRLWVJEQT09&u
+ uid=WN_mDa7Mdw9SZyAHSwLuMOfmQ\n    Passcode: 20220531\nDescription: Cloud c
+ omputing offers an innovative method of delivering IT services efficiently.
+  Since cloud technology is rapidly being adopted in healthcare sector\, Ora
+ cle as one of the IT solution providers\, is experienced in helping biotech
+  companies to accelerate their R&D development. They will be sharing some c
+ ases in relation to bio-simulation\, COVID-19 antivirals and digital therap
+ y platform with us in this webinar.\n\nOr One tap mobile:\n    +85258033730
+ \,\,81714784365#\,\,\,\,*20220531# Hong Kong SAR\n    +85258033731\,\,81714
+ 784365#\,\,\,\,*20220531# Hong Kong SAR\n\nOr join by phone:\n    Dial(for 
+ higher quality\, dial a number based on your current location):\n        Ho
+ ng Kong SAR: +852 5803 3730  or +852 5803 3731  or +852 5808 6088 \n    Web
+ inar ID: 817 1478 4365\n    Passcode: 20220531\n    International numbers a
+ vailable: https://hkstp.zoom.us/u/kdc1MfweH1\n\n
+LAST-MODIFIED:20220518T011135Z
+LOCATION:https://hkstp.zoom.us/w/81714784365?tk=Adr_HhjLRs7KVO-RwSgbvhtjiO1
+ 3PTtAw3EYDoVcH8g.DQMAAAATBpSobRZVcG1HNzgxT1JmQzNsOXhPRG9zM3pRAAAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAA&pwd=QS9vUkp6MC9SYlZVYVFqcjRLWVJEQT09&uuid=WN_mDa7Mdw9SZyAH
+ SwLuMOfmQ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HKSTP IncuBio x Oracle Webinar: Cloud computing-enabled Healthcare 
+ Opportunities
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220531T063000Z
+DTEND:20220531T073000Z
+DTSTAMP:20220926T030438Z
+UID:t2d120j14dpaonbm25afgs4lbs@google.com
+CREATED:20220518T011146Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    Pl
+ ease click this URL to join. https://hkstp.zoom.us/w/81714784365?tk=Adr_Hhj
+ LRs7KVO-RwSgbvhtjiO13PTtAw3EYDoVcH8g.DQMAAAATBpSobRZVcG1HNzgxT1JmQzNsOXhPRG
+ 9zM3pRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=QS9vUkp6MC9SYlZVYVFqcjRLWVJEQT09&u
+ uid=WN_mDa7Mdw9SZyAHSwLuMOfmQ\n    Passcode: 20220531\nDescription: Cloud c
+ omputing offers an innovative method of delivering IT services efficiently.
+  Since cloud technology is rapidly being adopted in healthcare sector\, Ora
+ cle as one of the IT solution providers\, is experienced in helping biotech
+  companies to accelerate their R&D development. They will be sharing some c
+ ases in relation to bio-simulation\, COVID-19 antivirals and digital therap
+ y platform with us in this webinar.\n\nOr One tap mobile:\n    +85258033730
+ \,\,81714784365#\,\,\,\,*20220531# Hong Kong SAR\n    +85258033731\,\,81714
+ 784365#\,\,\,\,*20220531# Hong Kong SAR\n\nOr join by phone:\n    Dial(for 
+ higher quality\, dial a number based on your current location):\n        Ho
+ ng Kong SAR: +852 5803 3730  or +852 5803 3731  or +852 5808 6088 \n    Web
+ inar ID: 817 1478 4365\n    Passcode: 20220531\n    International numbers a
+ vailable: https://hkstp.zoom.us/u/kdc1MfweH1\n\n
+LAST-MODIFIED:20220518T011146Z
+LOCATION:https://hkstp.zoom.us/w/81714784365?tk=Adr_HhjLRs7KVO-RwSgbvhtjiO1
+ 3PTtAw3EYDoVcH8g.DQMAAAATBpSobRZVcG1HNzgxT1JmQzNsOXhPRG9zM3pRAAAAAAAAAAAAAA
+ AAAAAAAAAAAAAAAA&pwd=QS9vUkp6MC9SYlZVYVFqcjRLWVJEQT09&uuid=WN_mDa7Mdw9SZyAH
+ SwLuMOfmQ
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HKSTP IncuBio x Oracle Webinar: Cloud computing-enabled Healthcare 
+ Opportunities
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220609T030000Z
+DTEND:20220609T033000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=Karen HW Law:mailto:karen.law@hkstp.org
+UID:040000008200E00074C5B7101A82E0080000000070568C82D769D801000000000000000
+ 010000000FCC5C1E4863B204BB4380B298AA84F92
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Gr
+ ace PS Lai;X-NUM-GUESTS=0:mailto:grace.lai@hkstp.org
+CREATED:20220518T092111Z
+DESCRIPTION:Dear Alshir\n\nThanks for your application. Our team will get t
+ o know more about your company and talent demands in this online meeting to
+  facilitate the upcoming job matching. You can also take this opportunity t
+ o ask us any questions about this programme.\nShould you have any enquiries
+ \, please feel free to contact me at 2629 2342/ karen.law@hkstp.org<mailto:
+ karen.law@hkstp.org>.\n\nTalk to you in the meeting. Thank you!\n\nBest\,\n
+ Karen\n\n__________________________________________________________________
+ ______________\nMicrosoft Teams meeting\nJoin on your computer or mobile ap
+ p\nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join
+ /19%3ameeting_MzA0MmRkNDYtYWYxOS00ZjUxLTkwOGYtMTA1ODg2NTg4ZmMw%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22b3e19ac2-e192-44c8-90bd-41acbfb3dcdb%22%2c%22Oi
+ d%22%3a%2228b951a0-9cef-4c1d-9d6e-26bfde60abc9%22%7d>\nLearn More<https://a
+ ka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meeti
+ ngOptions/?organizerId=28b951a0-9cef-4c1d-9d6e-26bfde60abc9&tenantId=b3e19a
+ c2-e192-44c8-90bd-41acbfb3dcdb&threadId=19_meeting_MzA0MmRkNDYtYWYxOS00ZjUx
+ LTkwOGYtMTA1ODg2NTg4ZmMw@thread.v2&messageId=0&language=en-US>\n___________
+ _____________________________________________________________________\n\nDi
+ sclaimer: This email and its attachment(s) are intended solely for the use 
+ of the individual to whom it is addressed and may contain information which
+  is privileged\, confidential\, proprietary\, or exempt from disclosure und
+ er applicable law. If you are not the intended recipient or the person resp
+ onsible for delivering the message to the intended recipient\, you are stri
+ ctly prohibited from disclosing\, distributing\, copying\, or in any way us
+ ing this message. If you have received this email in error\, please notify 
+ the sender and destroy / delete any copies you may have received.\n
+LAST-MODIFIED:20220518T093228Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:30-minute Online Meeting on NxTEC Career Launcher (with Decode Cure
+  Limited)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1504794598
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Locat
+ ionUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:karen.law@hkstp.org\;gruu\;opaqu
+ e=app:conf:focus:id:teams:2:0!19:meeting_MzA0MmRkNDYtYWYxOS00ZjUxLTkwOGYtMT
+ A1ODg2NTg4ZmMw-thread.v2!28b951a09cef4c1d9d6e26bfde60abc9!b3e19ac2e19244c89
+ 0bd41acbfb3dcdb
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/b3e19ac2-e192-44c8-90bd-41acbfb3dcdb/28b951a0-9cef-4c1d-9d6e-26
+ bfde60abc9/19_meeting_MzA0MmRkNDYtYWYxOS00ZjUxLTkwOGYtMTA1ODg2NTg4ZmMw@thre
+ ad.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MzA0MmRkNDYtYWYxOS00ZjUxLTkwOGYtMTA1ODg2NTg4ZmMw%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%22b3e19ac2-e192-44c8-90bd-41acbfb3dcdb%22%2c%22Oid
+ %22%3a%2228b951a0-9cef-4c1d-9d6e-26bfde60abc9%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MzA0MmRkNDYtYWYxOS00ZjU
+ xLTkwOGYtMTA1ODg2NTg4ZmMw@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220524T033000Z
+DTEND:20220524T043000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=ali.soyunjov@decodecure.com:mailto:ali.soyunjov@decodecure.com
+UID:75ihhmucmh693muq1bklfb4876@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/jsq-xpoa-tes
+CREATED:20220524T024333Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/js
+ q-xpoa-tes\n(HK) +852 3002 2301 PIN: 5445815720135#\nMore phone numbers: ht
+ tps://tel.meet/jsq-xpoa-tes?pin=5445815720135&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220524T024355Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intern Interview Evaluation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220619T160000Z
+DTEND:20220620T160000Z
+DTSTAMP:20220926T030438Z
+UID:2918odu102tujgphdp0jn55sgp@google.com
+CLASS:PUBLIC
+CREATED:20220621T012559Z
+DESCRIPTION:
+LAST-MODIFIED:20220621T012559Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ali Sick Leave
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220822T010000Z
+DTEND:20220822T030000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=lai.hoyau@decodecure.com:mailto:lai.hoyau@decodecure.com
+UID:2ejuii4p52nu6llog0ij8euqpu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cx9p9@
+ umsystem.edu;X-NUM-GUESTS=0:mailto:cx9p9@umsystem.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lai.ho
+ yau@decodecure.com;X-NUM-GUESTS=0:mailto:lai.hoyau@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=wong.p
+ akwah@decodecure.com;X-NUM-GUESTS=0:mailto:wong.pakwah@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=au
+ dreylee1124@gmail.com;X-NUM-GUESTS=0:mailto:audreylee1124@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/kvu-hfiw-eoy
+CREATED:20220819T060421Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/kv
+ u-hfiw-eoy\n(HK) +852 3002 2301 PIN: 1061615248113#\nMore phone numbers: ht
+ tps://tel.meet/kvu-hfiw-eoy?pin=1061615248113&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220822T025548Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[Meeting] Microbial Source Tracking Project
+TRANSP:OPAQUE
+ATTACH;FILENAME="[Meeting] Microbial Source Tracking Project (2022-08-22 09
+ :13 GMT+8).mp4";FMTTYPE=video/mp4:https://drive.google.com/file/d/1mMmCzsrm
+ NzjJtqL8qJbstoUtotMIjSUC/view?usp=drive_web
+ATTACH;FILENAME="[Meeting] Microbial Source Tracking Project (2022-08-22 09
+ :13 GMT+8).sbv";FMTTYPE=text/plain:https://drive.google.com/file/d/1xrNDBqL
+ VZv4abGHCyMAkMfMAiD4hvSXj/view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220908T070000Z
+DTEND:20220908T100000Z
+DTSTAMP:20220926T030438Z
+UID:0tulcb6vcgsu0v0i4iar11jm0h@google.com
+CLASS:PUBLIC
+CREATED:20220909T012626Z
+DESCRIPTION:
+LAST-MODIFIED:20220909T012626Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ali Sick Leave
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220921T030000Z
+DTEND:20220921T043000Z
+DTSTAMP:20220926T030438Z
+ORGANIZER;CN=lai.hoyau@decodecure.com:mailto:lai.hoyau@decodecure.com
+UID:7n1hcamrebbk1rj5n724es400i@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bin.ye
+ @decodecure.com;X-NUM-GUESTS=0:mailto:bin.ye@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lai.ho
+ yau@decodecure.com;X-NUM-GUESTS=0:mailto:lai.hoyau@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ali.so
+ yunjov@decodecure.com;X-NUM-GUESTS=0:mailto:ali.soyunjov@decodecure.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cx
+ 9p9@umsystem.edu;X-NUM-GUESTS=0:mailto:cx9p9@umsystem.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=au
+ dreylee1124@gmail.com;X-NUM-GUESTS=0:mailto:audreylee1124@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/cof-nuzv-emf
+CREATED:20220919T003040Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/co
+ f-nuzv-emf\n(HK) +852 3002 2301 PIN: 4165186386387#\nMore phone numbers: ht
+ tps://tel.meet/cof-nuzv-emf?pin=4165186386387&hs=7\n\nPlease do not edit th
+ is section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220919T025102Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[Meeting] - MST
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220923T010000Z
+DTEND:20220923T033000Z
+DTSTAMP:20220926T030438Z
+UID:6st7f31qkvpjgdu3j15j2hd22k@google.com
+CREATED:20220923T072203Z
+LAST-MODIFIED:20220923T072203Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ali sick leave
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

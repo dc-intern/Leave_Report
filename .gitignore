@@ -3,6 +3,5 @@
 Pipfile
 startapp.py
 .DS_Store
-*.ics
 *.docx
 *.txt
